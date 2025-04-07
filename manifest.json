@@ -1,0 +1,23 @@
+{
+    "manifest_version": 1,
+    "name": "Gerador de ID Power-Up",
+    "description": "Gera um ID aleatório e salva em um campo personalizado do card.",
+    "author": "Derciel Junior",
+    "capabilities": {
+      "card-buttons": {
+        "url": "./index.html",
+        "height": 50
+      },
+      "show-settings": {
+        "url": "./index.html",
+        "height": 100
+      }
+    },
+    "connectors": {},
+    "icon": {
+      "url": "https://cdn-icons-png.flaticon.com/512/2107/2107957.png",
+      "width": 64,
+      "height": 64
+    }
+  }
+  

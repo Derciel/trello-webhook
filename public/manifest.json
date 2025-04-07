@@ -1,0 +1,21 @@
+{
+    "name": "Meu Power-Up Trello",
+    "description": "Adiciona um ID no campo personalizado ao criar um card",
+    "author": "Seu Nome",
+    "icons": {
+      "16": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+      "48": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+      "128": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png"
+    },
+    "iframeConnectorUrl": "https://SEU_DOMINIO.vercel.app/public/index.html",
+    "capabilities": [
+      "board-buttons"
+    ],
+    "connectors": {
+      "iframe": {
+        "url": "https://SEU_DOMINIO.vercel.app/public/index.html"
+      }
+    },
+    "version": "1.0"
+  }
+  

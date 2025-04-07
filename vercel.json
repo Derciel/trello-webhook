@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "version": 2,
   "builds": [
     {
@@ -14,7 +13,6 @@
     }
   ]
 }
-=======
     "functions": {
       "api/index.py": {
         "runtime": "vercel-python@0.7.1"
@@ -32,4 +30,3 @@
     ]
   }
   
->>>>>>> 789ebbf (Corrige estrutura e adiciona runtime Python)
